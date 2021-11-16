@@ -25,3 +25,5 @@
     **Por quê ?**
     Por conta da quantidade de entregar que precisamos fazer, é necessário a contratação de mais mão de obra para conseguir entregar a aplicação no prazo
 ### 4
+![Diagrama de Sequencia](diagrama_sequencia.png)
+
